@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CT.DDS.Training.Blazor.Server", "CT.DDS.Training.Blazor.Server\CT.DDS.Training.Blazor.Server.csproj", "{46B9FA75-B6D9-4DBF-9CDB-F320E1B652BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BethanysPieShopHRM.Shared", "BethanysPieShopHRM.Shared\BethanysPieShopHRM.Shared.csproj", "{1703D42A-C28D-4BB8-8C0E-FE887EF2D720}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BethanysPieShopHRM.Api", "BethanysPieShopHRM.Api\BethanysPieShopHRM.Api.csproj", "{8578BA21-00BF-4C6B-904C-EF2B4B13F712}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BethanysPieShopHRM.ComponentLibrary", "BethanysPieShopHRM.ComponentLibrary\BethanysPieShopHRM.ComponentLibrary.csproj", "{980CE7AF-B85C-4593-803A-ACC426B7C439}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CT.DDS.Training.Blazor", "CT.DDS.Training.Blazor\CT.DDS.Training.Blazor.csproj", "{B691FDB7-1D4C-483B-8D9B-98FB17ABD02E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CT.DDS.Training.Blazor.Client", "CT.DDS.Training.Blazor.Client\CT.DDS.Training.Blazor.Client.csproj", "{B516C144-84FC-4C45-9F3C-7F8496E1FBFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46B9FA75-B6D9-4DBF-9CDB-F320E1B652BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B9FA75-B6D9-4DBF-9CDB-F320E1B652BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B9FA75-B6D9-4DBF-9CDB-F320E1B652BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B9FA75-B6D9-4DBF-9CDB-F320E1B652BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1703D42A-C28D-4BB8-8C0E-FE887EF2D720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1703D42A-C28D-4BB8-8C0E-FE887EF2D720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1703D42A-C28D-4BB8-8C0E-FE887EF2D720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1703D42A-C28D-4BB8-8C0E-FE887EF2D720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8578BA21-00BF-4C6B-904C-EF2B4B13F712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8578BA21-00BF-4C6B-904C-EF2B4B13F712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8578BA21-00BF-4C6B-904C-EF2B4B13F712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8578BA21-00BF-4C6B-904C-EF2B4B13F712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{980CE7AF-B85C-4593-803A-ACC426B7C439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980CE7AF-B85C-4593-803A-ACC426B7C439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980CE7AF-B85C-4593-803A-ACC426B7C439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980CE7AF-B85C-4593-803A-ACC426B7C439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B691FDB7-1D4C-483B-8D9B-98FB17ABD02E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B691FDB7-1D4C-483B-8D9B-98FB17ABD02E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B691FDB7-1D4C-483B-8D9B-98FB17ABD02E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B691FDB7-1D4C-483B-8D9B-98FB17ABD02E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B516C144-84FC-4C45-9F3C-7F8496E1FBFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B516C144-84FC-4C45-9F3C-7F8496E1FBFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B516C144-84FC-4C45-9F3C-7F8496E1FBFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B516C144-84FC-4C45-9F3C-7F8496E1FBFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61266226-437C-436F-8D2B-667AE4379A15}
+	EndGlobalSection
+EndGlobal
